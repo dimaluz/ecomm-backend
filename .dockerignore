@@ -1,0 +1,4 @@
+.pytest-cache
+__pycache__
+readme.md
+DB_schema.png
